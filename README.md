@@ -1,7 +1,7 @@
 # 🛡️ Phishing Email Detection & Trend Analysis
 
 ## 📌 Project Overview
-Phishing attacks are one of the most common cybersecurity threats faced by organizations today.  
+Phishing attacks are one of the most common cybersecurity threats faced by organizations today.   
 This project focuses on **analyzing phishing email data** to identify trends, attack patterns, and high-risk indicators using **Power BI Desktop (Free Version)**.
 
 The project uses **descriptive analytics and visualization** to provide actionable insights for cybersecurity awareness, without using machine learning or complex predictive models.
